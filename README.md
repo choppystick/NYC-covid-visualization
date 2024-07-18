@@ -20,6 +20,10 @@ This project provides a comprehensive set of data visualizations for COVID-19 st
 3. Demographic Visualizations:
    - Age group analysis of case rates, hospitalization rates, and death rates
    - Gender analysis of COVID-19 statistics
+     ![image](https://github.com/user-attachments/assets/338f6155-5a65-483e-90d9-2e25f07d0679)
+     ![image](https://github.com/user-attachments/assets/118c0efb-ea8e-4cb5-b23b-b8b467021ffe)
+
+
 
 ## Dependencies
 
@@ -75,6 +79,10 @@ To run the notebooks:
 - Bar plots comparing case rates, hospitalization rates, and death rates across age groups
 - Bar plots comparing COVID-19 statistics between genders
 
+## Future Improvements
+- Perform actual statistical analysis (Heatmaps, test for significance)
+- Interpret results
+  
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
